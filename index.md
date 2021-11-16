@@ -1,3 +1,4 @@
+# Introduction to Computer Vision (Spring 2022)
 <p align="center">
   <img src="https://www.di.ens.fr/willow/research/inpainting/images/new_000228/new_000228.jpg" width="175">
   <img src="https://www.di.ens.fr/willow/research/inpainting/images/new_000228/new_000228_outline.jpg" width="175">
@@ -6,9 +7,8 @@
   Source: <a href="https://www.di.ens.fr/willow/research/inpainting/">Willow</a>
 </p>
 
-Course webpage for the NYU Spring 2022 Course: Introduction to Computer Vision. This course is aims to cover a broad topics in computer vision, and is *not* primarily a deep learning course. We will covert topics in traditional computer vision such as camera geometry, image formation, segmentation, object recognition, classification, and detection (see [Syllabus](#Syllabus)).
+Course webpage for the NYU Spring 2022 Course Special Topics in Data Science, DS-GA 3001.003/.004 (Introduction to Computer Vision). This course is aims to cover a broad topics in computer vision, and is *not* primarily a deep learning course. We will covert topics in traditional computer vision such as camera geometry, image formation, segmentation, object recognition, classification, and detection (see [Syllabus](#Syllabus)).
 
-Special Topics in Data Science, DS-GA 3001.003/.004
 
 ### Logistics
 
@@ -25,19 +25,17 @@ Tuesdays 5:55pm-6:45pm \
 Labs will be used to cover additional materials or to work through practical exercises with the TA. 
 
 * **Office Hours**: \
-Jean Ponce: TBA (please email for appointment) \
-Alberto Bietti: TBA (please email for appointment)
-Elena Sizikova: TBA (please email for appointment)
+Jean Ponce: TBA \
+Alberto Bietti: TBA \
+Elena Sizikova: TBA
 
-
-* **Piazza Link**: https://piazza.com/nyu/spring2021/dsga3001004  \
-Please try first to post any questions about course logistics and material, HWs and final project on Piazza. We also highly encourage you to help each other out (but please do not reveal answers). For additional questions, please email course staff.
-
+* **Brightspace Link**: TBA  \
+Please try first to post any questions about course logistics and material, HWs and final project on Brightspace. We also highly encourage you to help each other out (but please do not reveal answers). For additional questions, please email course staff.
 
 ### Instructors
 
-<a href="https://www.di.ens.fr/~ponce/">Jean Ponce</a> (jean.ponce@inria.fr)  
-<a href="https://alberto.bietti.me">Alberto Bietti</a> (alberto.bietti@nyu.edu)
+<a href="https://www.di.ens.fr/~ponce/">Jean Ponce</a> (jean.ponce@inria.fr)  \
+<a href="https://alberto.bietti.me">Alberto Bietti</a> (alberto.bietti@nyu.edu) \
 <a href="https://esizikova.github.io">Elena Sizikova</a> (es5223@nyu.edu)
 
 ### TAs
@@ -56,7 +54,7 @@ Due on TBA.
 Due on TBA.
 * **Excercise 4** on neural networks.
 Due on TBA.
-* **Final project:** details TBA>
+* **Final project:** details TBA.
 
 <a name="Syllabus"></a>
 ### Syllabus 
@@ -84,8 +82,9 @@ We do not require purchase of any textbooks and the course will be self-containe
 
 *Note*: lecture slides will be posted after each lecture.
 
-### Previous Course Websites
-TBA
+### Previous Course Editions
+* <a href="https://esizikova.github.io/introCV-spring2021/">Spring 2021</a> 
+* <a href="https://mtrager.github.io/introCV-fall2019/">Fall 2019</a> 
 
 ### Acknowledgements
 Much of the material for this course relies on the Computer Vision course given at ENS Paris by Mathieu Aubry, Karteek Alahari, Ivan Laptev, and Josef Sivic. Many of the slides are taken from James Hays, Svetlana Lazebnik, and Derek Hoeim. Website was originally designed by Matthew Trager.
