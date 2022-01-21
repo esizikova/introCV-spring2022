@@ -101,6 +101,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 |  | Exercise 2 DUE        |                                                                                               | |
 | 03/08 | Lab                   | Fundamental Matrix Esimation     |  |
 | 03/10 | Lecture 7             | Stereopsis, Epipolar Geometry, Essential and Fundamental Matrices      | |
+| 03/17 | No class | (spring break) | |
 | 03/22 | Lab                   | Eight-point Algorithm     | |
 | 03/24 | Lecture 8             | Eight-point Algorithm, Correlation-based stereo, more sophisticated methods     |  |
 | 03/29 | Lab                   |      |  |
