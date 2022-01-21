@@ -77,10 +77,48 @@ We do not require purchase of any textbooks and the course will be self-containe
 * R. Szeliski, “Computer Vision: Algorithms and Applications”. (<a href="http://szeliski.org/Book/">PDF</a>)
 * R. Hartley and A. Zisserman, “Multiple View Geometry in Computer Vision”, Cambridge University Press, 2004. (<a href="https://www.robots.ox.ac.uk/~vgg/hzbook/">Link</a>)
  
+
 <a name="Schedule"></a>
 ### Schedule:
 
 *Note*: lecture slides will be posted after each lecture.
+
+| Date  | Lecture               | Topic | Link                                                                                          |
+| ----- | ------------------------ | ------| --------------------------------------------------------------------------------------------- |
+| 01/25 | Lab: Course Intro     | Introduction, Logistics       | Intro  |
+| 1/27 | Lecture 1             | Examples of vision tasks, camera geometry and calibration      | |
+| 02/01 | Lab                   | A detour of sensing country, intrinsic and extrinsic parameters      |  |
+| 02/03 | Lecture 2             | Linear calibration, analytic photogrammetry, filtering       |  |
+| 02/8 | Lab                   | Image Stitching Exercise      | |
+| 02/10 | Lecture 3             | Edge detection, keypoints and features, RANSAC, Hough transform      |  |
+| 02/21 | Exercise 1 DUE        |                                                                                                |
+| 02/24 | Lecture 4             | Texture, Segmentation      | |
+| 02/25 | Lab                   | Edge Detection using Sobel Operator      |  |
+| 03/03 | Lecture 5             | Radiometry and Color, Part 1     |  |
+| 03/04 | Lab                   | Radiometry and Color, Part 2      | |
+| 03/10 | Lecture 6             | Color      |  |
+| 03/11 | Lab                   | Canny Edge Detection Skeleton Code      |  |
+| 03/14 | Exercise 2 DUE        |                                                                                               | |
+| 03/17 | Lecture 7             | Stereopsis, Epipolar Geometry, Essential and Fundamental Matrices      | |
+| 03/18 | Lab                   | Fundamental Matrix Esimation     |  |
+| 03/24 | Lecture 8             | Eight-point Algorithm, Correlation-based stereo, more sophisticated methods     |  |
+| 03/25 | Lab                   | Eight-point Algorithm     | |
+| 03/31 | Lecture 9                   | Structure from Motion     |  |
+| 04/01 | Lab                   |      |  |
+| 04/04 | Exercise 3 DUE        |                                                                                               | |
+| 04/07 | Lecture 10                   | Affine and Projective SfM     |  |
+| 04/08 | Lab                   |      |  |
+| 04/14 | Lecture 11                   | SfM, Laser Scanning, Space Carving, Multiview Stereo     | |
+| 04/15 | Lab                   | ICP Implementation     |   |
+| 04/21 | Lecture 12                   | Visual Recognition, Intro to NN     | |
+| 04/22 | Lab                   | VAE Implementation     |  |
+| 04/28 | Lecture 13                   | CNN Recognition and Detection     |  |
+| 04/29 | Lab                   |      |  |
+| 05/02 | Exercise 4 DUE        |                         | |
+| 05/05 | Lecture 14                   |      |  |
+| 05/06 | Lab                   |      |  |
+
+
 
 ### Acknowledgements
 Much of the material for this course relies on the Computer Vision course given at ENS Paris by Mathieu Aubry, Karteek Alahari, Ivan Laptev, and Josef Sivic. Many of the slides are taken from James Hays, Svetlana Lazebnik, and Derek Hoeim. Website was originally designed by Matthew Trager.
