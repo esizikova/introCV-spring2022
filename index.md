@@ -117,7 +117,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 04/28 | Lecture 13                   | CNN Recognition and Detection     |  |
 | 05/03 | Lab                   |      |  |
 |  | Exercise 4 DUE        |                         | |
-| 05/05 | Lecture 14                   |      |  |
+| 05/05 | Lecture 14                   | CV Applications     |  |
 
 
 
