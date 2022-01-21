@@ -28,7 +28,7 @@ Jean Ponce: TBA \
 Alberto Bietti: TBA \
 Elena Sizikova: TBA
 
-* **Brightspace Link**: TBA  \
+* **Brightspace Link**: <a href="https://brightspace.nyu.edu/d2l/le/lessons/156638/%20nits/6225595">Link</a>  \
 Please try first to post any questions about course logistics and material, HWs and final project on Brightspace. We also highly encourage you to help each other out (but please do not reveal answers). For additional questions, please email course staff.
 
 ### Instructors
@@ -38,7 +38,8 @@ Please try first to post any questions about course logistics and material, HWs 
 <a href="https://esizikova.github.io">Elena Sizikova</a> (es5223@nyu.edu)
 
 ### TAs
-TBA
+
+Irmak Guzey (ig2283@nyu.edu)
 
 ### Grading
 
@@ -80,10 +81,6 @@ We do not require purchase of any textbooks and the course will be self-containe
 ### Schedule:
 
 *Note*: lecture slides will be posted after each lecture.
-
-### Previous Course Editions
-* <a href="https://esizikova.github.io/introCV-spring2021/">Spring 2021</a> 
-* <a href="https://mtrager.github.io/introCV-fall2019/">Fall 2019</a> 
 
 ### Acknowledgements
 Much of the material for this course relies on the Computer Vision course given at ENS Paris by Mathieu Aubry, Karteek Alahari, Ivan Laptev, and Josef Sivic. Many of the slides are taken from James Hays, Svetlana Lazebnik, and Derek Hoeim. Website was originally designed by Matthew Trager.
