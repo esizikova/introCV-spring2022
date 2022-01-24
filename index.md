@@ -15,21 +15,21 @@ Course webpage for the NYU Spring 2022 Course Special Topics in Data Science, DS
 Thursdays 4:55pm-6:35pm  \
 **Location**: Global Center for Academic & Spiritual Life, 238 Thompson Street (GCASL 361)   \
 \
-The class will be in-person. Slides will be available after the class on this webpage. (see [Schedule](#Schedule)).
+The class will be in-person or via Zoom. Slides will be available after the class on this webpage. (see [Schedule](#Schedule)).
 
 * DS-GA 3001.004 (Lab) \
 Tuesdays 5:55pm-6:45pm \
 **Location**: Global Center for Academic & Spiritual Life, 238 Thompson Street (GCASL 361)   \
 \
-Labs will be used to cover additional materials or to work through practical exercises with the TA. 
+The labs will be in-person or via Zoom.  Labs will be used to cover additional materials or to work through practical exercises with the TA. 
 
 * **Office Hours**: \
 Jean Ponce: TBA \
 Alberto Bietti: TBA \
 Elena Sizikova: TBA
 
-* **Brightspace Link**: <a href="https://brightspace.nyu.edu/d2l/le/lessons/156638/%20nits/6225595">Link</a>  \
-Please try first to post any questions about course logistics and material, HWs and final project on Brightspace. We also highly encourage you to help each other out (but please do not reveal answers). For additional questions, please email course staff.
+* **Campuswire Link**: <a href="https://campuswire.com/c/G5F40373F/">Link</a> \ 
+Please try first to post any questions about course logistics and material, HWs and final project on Campuswire. We also highly encourage you to help each other out (but please do not reveal answers). For additional questions, please email course staff. 
 
 ### Instructors
 
@@ -38,13 +38,12 @@ Please try first to post any questions about course logistics and material, HWs 
 <a href="https://esizikova.github.io">Elena Sizikova</a> (es5223@nyu.edu)
 
 ### TAs
-
 Irmak Guzey (ig2283@nyu.edu)
 
 ### Grading
 
-Four programming assignments (60% of the grade) + final project (40% of the
-grade). Assignments should be submitted using the NYU Brightspace site.
+Four programming assignments (50% of the grade) + final project (40% of the
+grade) + class attendance (5%) + lab attendance (5%). Assignments should be submitted using the <a href="https://brightspace.nyu.edu/d2l/le/lessons/156638/%20nits/6225595">Brightspace</a> site.
 
 * **Excercise 1** on camera calibration. 
 Due on TBA.
@@ -55,6 +54,11 @@ Due on TBA.
 * **Excercise 4** on neural networks.
 Due on TBA.
 * **Final project:** details TBA.
+
+### Attendance
+
+You are expected to attend classes and labs in person or via Zoom (see <a href="https://brightspace.nyu.edu/d2l/le/lessons/156638/%20nits/6225595">NYU Brightspace</a> for link). Class attendance will count for 5% of your grade and lab attendance will count for 5% of your grade.
+
 
 <a name="Syllabus"></a>
 ### Syllabus 
