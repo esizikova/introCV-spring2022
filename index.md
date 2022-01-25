@@ -87,38 +87,38 @@ We do not require purchase of any textbooks and the course will be self-containe
 | Date  | Lecture               | Topic | Link                                                                                          |
 | ----- | ------------------------ | ------| --------------------------------------------------------------------------------------------- |
 | 01/25 | Lab: Course Intro     | Introduction, Logistics       |  |
-| 01/27 | Lecture 1             | Examples of vision tasks, camera geometry and calibration      | |
-| 02/01 | Lab                   | A detour of sensing country, intrinsic and extrinsic parameters      |  |
-| 02/03 | Lecture 2             | Linear calibration, analytic photogrammetry, filtering       |  |
-| 02/08 | Lab                   | Image Stitching Exercise      | |
-| 02/10 | Lecture 3             | Edge detection, keypoints and features, RANSAC, Hough transform      |  |
-|  | Exercise 1 DUE        |                                                                                                |
-| 02/15 | Lab                   | Edge Detection using Sobel Operator      |  |
-| 02/17 | Lecture 4             | Texture, Segmentation      | |
-| 03/22 | Lab                   | Radiometry and Color, Part 2      | |
-| 02/24 | Lecture 5             | Radiometry and Color, Part 1     |  |
-| 03/01 | Lab                   | Canny Edge Detection Skeleton Code      |  |
-| 03/03 | Lecture 6             | Color      |  |
-|  | Exercise 2 DUE        |                                                                                               | |
-| 03/08 | Lab                   | Fundamental Matrix Esimation     |  |
-| 03/10 | Lecture 7             | Stereopsis, Epipolar Geometry, Essential and Fundamental Matrices      | |
+| 01/27 | Lecture 1             |       | |
+| 02/01 | Lab                   |       |  |
+| 02/03 | Lecture 2             |        |  |
+| 02/08 | Lab                   |       | |
+| 02/10 | Lecture 3             |       |  |
+| 02/15 | Lab                   |       |  |
+| 02/16 | Exercise 1 DUE        |                                                                                                |
+| 02/17 | Lecture 4             |       | |
+| 03/22 | Lab                   |      | |
+| 02/24 | Lecture 5             |      |  |
+| 03/01 | Lab                   |       |  |
+| 03/03 | Lecture 6             |       |  |
+| 03/08 | Lab                   |      |  |
+| 03/09 | Exercise 2 DUE        |                                                                                               | |
+| 03/10 | Lecture 7             |       | |
 | 03/17 | No class | (spring break) | |
-| 03/22 | Lab                   | Eight-point Algorithm     | |
-| 03/24 | Lecture 8             | Eight-point Algorithm, Correlation-based stereo, more sophisticated methods     |  |
+| 03/22 | Lab                   |      | |
+| 03/24 | Lecture 8             |      |  |
 | 03/29 | Lab                   |      |  |
-| 03/31 | Lecture 9                   | Structure from Motion     |  |
+| 03/31 | Lecture 9                   |      |  |
 | 04/05 | Lab                   |      |  |
-|  | Exercise 3 DUE        |                                                                                               | |
-| 04/07 | Lecture 10                   | Affine and Projective SfM     |  |
+| 04/06 | Exercise 3 DUE        |                                                                                               | |
+| 04/07 | Lecture 10                   |      |  |
 | 04/12 | Lab                   |      |  |
-| 04/14 | Lecture 11                   | SfM, Laser Scanning, Space Carving, Multiview Stereo     | |
-| 04/19 | Lab                   | ICP Implementation     |   |
-| 04/21 | Lecture 12                   | Visual Recognition, Intro to NN     | |
-| 04/26 | Lab                   | VAE Implementation     |  |
-| 04/28 | Lecture 13                   | CNN Recognition and Detection     |  |
+| 04/14 | Lecture 11                   |      | |
+| 04/19 | Lab                   |      |   |
+| 04/21 | Lecture 12                   |      | |
+| 04/26 | Lab                   |      |  |
+| 04/28 | Lecture 13                   |      |  |
 | 05/03 | Lab                   |      |  |
-|  | Exercise 4 DUE        |                         | |
-| 05/05 | Lecture 14                   | CV Applications     |  |
+| 05/04 | Exercise 4 DUE        |                         | |
+| 05/05 | Lecture 14                   |     |  |
 
 
 
