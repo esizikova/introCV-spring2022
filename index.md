@@ -86,7 +86,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 
 | Date  | Lecture               | Topic | Link                                                                                          |
 | ----- | ------------------------ | ------| --------------------------------------------------------------------------------------------- |
-| 01/25 | Lab: Course Intro     | Introduction, Logistics       |  |
+| 01/25 | Lab: Course Intro     | Introduction, Logistics       | Slides (<a href="https://drive.google.com/file/d/1-sGfGyArV9SgAQ_FMHifj7Aqc451Rry0/view?usp=sharing">Keynote</a>, <a href="https://drive.google.com/file/d/1r9N_E9-mWOlr3ujZbbF5XZoLaL5M5f0l/view?usp=sharing">PDF</a>)  |
 | 01/27 | Lecture 1             |       | |
 | 02/01 | Lab                   |       |  |
 | 02/03 | Lecture 2             |        |  |
