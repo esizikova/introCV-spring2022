@@ -43,15 +43,15 @@ Irmak Guzey (ig2283@nyu.edu)
 Four programming assignments (50% of the grade) + final project (40% of the
 grade) + class participation and attendance (5%) + lab participation and attendance (5%). Assignments should be submitted using the <a href="https://brightspace.nyu.edu/d2l/le/lessons/156638/%20nits/6225595">Brightspace</a> site.
 
-* **Excercise 1** on camera calibration. 
-Due on TBA.
+* **Excercise 1** on camera calibration. <a href="https://drive.google.com/file/d/1wqrxhtLQTdJRnTmKt5Zf0_i1TNQNPNOI/view?usp=sharing">Link</a> 
+Due on Feb. 16.
 * **Excercise 2** on Canny edge detector. 
-Due on TBA.
+Due on Mar. 9.
 * **Excercise 3** on mean shift.
-Due on TBA.
+Due on Apr. 6.
 * **Excercise 4** on neural networks.
-Due on TBA.
-* **Final project:** details TBA.
+Due on May 4.
+* **Final project:** presentations will be held during the last lecture (May 5) and report will be due May 5, 11.59PM EST.
 
 ### Participation and Attendance
 You are expected to attend and participate in classes and labs in person or via Zoom (see <a href="https://brightspace.nyu.edu/d2l/le/lessons/156638/%20nits/6225595">NYU Brightspace</a> for link). Class attendance will count for 5% of your grade and lab attendance will count for 5% of your grade.
@@ -93,7 +93,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 02/08 | Lab                   |       | |
 | 02/10 | Lecture 3             |       |  |
 | 02/15 | Lab                   |       |  |
-| 02/16 | Exercise 1 DUE        |                                                                                                |
+| 02/16 | Exercise 1 DUE        |        Camera Calibration  | <a href="https://drive.google.com/file/d/1wqrxhtLQTdJRnTmKt5Zf0_i1TNQNPNOI/view?usp=sharing">Link</a> 
 | 02/17 | Lecture 4             |       | |
 | 03/22 | Lab                   |      | |
 | 02/24 | Lecture 5             |      |  |
