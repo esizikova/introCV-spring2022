@@ -91,7 +91,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 02/01 | Lab                   | Calibration Exercise      | Slides (<a href="https://docs.google.com/presentation/d/1ymX_CWB7NpMyxVKed5epQLgy_iNDl2Ew/edit?usp=sharing&ouid=106162158699473790269&rtpof=true&sd=true">PPTX</a>, <a href="https://drive.google.com/file/d/1ICj1dJfi_d7gxfNgBRf0yN78ZToTSqoq/view?usp=sharing">PDF</a>) Notebook (<a href="https://drive.google.com/file/d/1AsvH02k_FJlGcNAuE9tRtFpCtACvwMXp/view?usp=sharing">Jupyter</a>) |
 | 02/03 | Lecture 2             | Camera geometry and calibration       | Slides (<a href="https://docs.google.com/presentation/d/1L9ubs3AKnkKLjW9SoRldpcm9lbidmnMP/edit?usp=sharing&ouid=106162158699473790269&rtpof=true&sd=true">PPTX</a>, <a href="https://drive.google.com/file/d/1jj27W9-SsqX_5B-wc24itFSmN3eIjQkT/view?usp=sharing">PDF</a>) |
 | 02/08 | Lab                   |       | |
-| 02/10 | Lecture 3             |       |  |
+| 02/10 | Lecture 3             | Filtering and Feature Detection      | Slides (<a href="https://docs.google.com/presentation/d/1k-l-V8Ropreim_kKlZm3a3eBNz32fRKS/edit?usp=sharing&ouid=106162158699473790269&rtpof=true&sd=true">PPTX</a>, <a href="https://drive.google.com/file/d/1q8hpDTOWy5CWs-5ftJCBxkDgHkTOILZu/view?usp=sharing">PDF</a>) |
 | 02/15 | Lab                   |       |  |
 | 02/16 | Exercise 1 DUE        |        HW on Camera Calibration  | <a href="https://drive.google.com/file/d/1wqrxhtLQTdJRnTmKt5Zf0_i1TNQNPNOI/view?usp=sharing">Link</a> 
 | 02/17 | Lecture 4             |       | |
