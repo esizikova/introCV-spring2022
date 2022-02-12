@@ -35,8 +35,10 @@ Please try first to post any questions about course logistics and material, HWs 
 <a href="https://alberto.bietti.me">Alberto Bietti</a> (alberto.bietti@nyu.edu) \
 <a href="https://esizikova.github.io">Elena Sizikova</a> (es5223@nyu.edu)
 
-### TAs
-Irmak Guzey (ig2283@nyu.edu)
+### TAs and Graders
+<a href="https://tr.linkedin.com/in/irmak-guzey-6a9010175">Irmak Guzey</a> (ig2283@nyu.edu) \
+<a href="https://www.linkedin.com/in/aakashbhattacharya07">Aakash Bhattacharya</a> (ab9541@nyu.edu)
+
 
 ### Grading
 
