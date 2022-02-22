@@ -47,7 +47,7 @@ grade) + class participation and attendance (5%) + lab participation and attenda
 
 * **Excercise 1** on camera calibration. <a href="https://drive.google.com/file/d/1wqrxhtLQTdJRnTmKt5Zf0_i1TNQNPNOI/view?usp=sharing">Link</a> 
 Due on Feb. 16.
-* **Excercise 2** on Canny edge detector. 
+* **Excercise 2** on Canny edge detector. <a href="https://drive.google.com/file/d/1_DaNrFnDDtILv2VIwRNzA5cNwf4xoMfl/view?usp=sharing">Link</a>
 Due on Mar. 9.
 * **Excercise 3** on mean shift.
 Due on Apr. 6.
@@ -102,7 +102,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 03/01 | Lab                   |       |  |
 | 03/03 | Lecture 6             |       |  |
 | 03/08 | Lab                   |      |  |
-| 03/09 | Exercise 2 DUE        |                                                                                               | |
+| 03/09 | Exercise 2 DUE        |  HW on Canny Edge Detector       |<a href="https://drive.google.com/file/d/1_DaNrFnDDtILv2VIwRNzA5cNwf4xoMfl/view?usp=sharing">Link</a> |
 | 03/10 | Lecture 7             |       | |
 | 03/17 | No class | (spring break) | |
 | 03/22 | Lab                   |      | |
