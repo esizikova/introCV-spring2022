@@ -98,7 +98,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 02/16 | Exercise 1 DUE        |        HW on Camera Calibration  | <a href="https://drive.google.com/file/d/1wqrxhtLQTdJRnTmKt5Zf0_i1TNQNPNOI/view?usp=sharing">Link</a> 
 | 02/17 | Lecture 4             | Image Filtering   | Slides ([Keynote](https://drive.google.com/file/d/1xNsOk08gf7QnigxdoDJdH_qq0Cl1sP9R/view?usp=sharing), [PDF](https://drive.google.com/file/d/1qRDndR2ONTlojo8EeqR76vKmUBnZBCCn/view?usp=sharing))|
 | 03/22 | Lab                   |      | |
-| 02/24 | Lecture 5             |      |  |
+| 02/24 | Lecture 5             |   Edge and Feature Detection   | Slides ([Keynote](https://drive.google.com/file/d/1J_TF7KADIGMZUwEyY_4WUbHYver6y7OV/view?usp=sharing), [PDF](https://drive.google.com/file/d/1L5wgvrN-O6Rn-8w-kraDe0Du3VdR0sFo/view?usp=sharing)) |
 | 03/01 | Lab                   |       |  |
 | 03/03 | Lecture 6             |       |  |
 | 03/08 | Lab                   |      |  |
