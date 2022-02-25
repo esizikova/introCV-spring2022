@@ -95,11 +95,11 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 02/08 | Lab 2                 | Homework 1 review      | Slides (<a href="https://docs.google.com/presentation/d/1F57_lhGbhn0Z4RWI7fTyTH8Leo9g3Rr4ncxsDSs6i-A/edit?usp=sharing">PPTX</a>, <a href="https://drive.google.com/file/d/1UnBVU5oawJ-57SOU7kuCdU2t9ZdnZY-V/view?usp=sharing">PDF</a>) Notebook (<a href="https://drive.google.com/file/d/1oL3icg92Aitj5vDY63c9GL7B-tJ3_C85/view?usp=sharing">Jupyter</a>) |
 | 02/10 | Lecture 3             | Camera geometry and calibration      | Slides (<a href="https://docs.google.com/presentation/d/1k-l-V8Ropreim_kKlZm3a3eBNz32fRKS/edit?usp=sharing&ouid=106162158699473790269&rtpof=true&sd=true">PPTX</a>, <a href="https://drive.google.com/file/d/1q8hpDTOWy5CWs-5ftJCBxkDgHkTOILZu/view?usp=sharing">PDF</a>) |
 | 02/15 | Lab                   |       |  |
-| 02/16 | Exercise 1 DUE        |        HW on Camera Calibration  | <a href="https://drive.google.com/file/d/1wqrxhtLQTdJRnTmKt5Zf0_i1TNQNPNOI/view?usp=sharing">Link</a> 
+| 02/16 | Exercise 1 DUE        |  HW on Camera Calibration  | <a href="https://drive.google.com/file/d/1wqrxhtLQTdJRnTmKt5Zf0_i1TNQNPNOI/view?usp=sharing">Link</a> 
 | 02/17 | Lecture 4             | Image Filtering   | Slides ([Keynote](https://drive.google.com/file/d/1xNsOk08gf7QnigxdoDJdH_qq0Cl1sP9R/view?usp=sharing), [PDF](https://drive.google.com/file/d/1qRDndR2ONTlojo8EeqR76vKmUBnZBCCn/view?usp=sharing))|
-| 03/22 | Lab                   |      | |
-| 02/24 | Lecture 5             |   Edge and Feature Detection   | Slides ([Keynote](https://drive.google.com/file/d/1J_TF7KADIGMZUwEyY_4WUbHYver6y7OV/view?usp=sharing), [PDF](https://drive.google.com/file/d/1L5wgvrN-O6Rn-8w-kraDe0Du3VdR0sFo/view?usp=sharing)) |
-| 03/01 | Lab                   |       |  |
+| 03/22 | Lab 3                 | Image Filtering | Notebook (<a href="https://colab.research.google.com/drive/1cHiAS4B9RVI01cPIIzylXbZd_g26ICCi?usp=sharing">Jupyter</a>)  |
+| 02/24 | Lecture 5             | Edge and Feature Detection   | Slides ([Keynote](https://drive.google.com/file/d/1J_TF7KADIGMZUwEyY_4WUbHYver6y7OV/view?usp=sharing), [PDF](https://drive.google.com/file/d/1L5wgvrN-O6Rn-8w-kraDe0Du3VdR0sFo/view?usp=sharing)) |
+| 03/01 | Lab                   |   |  |
 | 03/03 | Lecture 6             |       |  |
 | 03/08 | Lab                   |      |  |
 | 03/09 | Exercise 2 DUE        |  HW on Canny Edge Detector       |<a href="https://drive.google.com/file/d/1_DaNrFnDDtILv2VIwRNzA5cNwf4xoMfl/view?usp=sharing">Link</a> |
