@@ -53,7 +53,7 @@ Due on Mar. 9.
 Due on Apr. 6.
 * **Excercise 4** on neural networks.
 Due on May 4.
-* **Final project:** presentations will be held during the last lecture (May 5) and report will be due May 5, 11.59PM EST.
+* **Final project:** here is a list of [suggested papers](https://docs.google.com/document/d/11vsh1EHvDHOhGsFBpeqwzZFQNBkFk2Qwk-_YDP7XF_g/edit?usp=sharing) for the final project. Final presentations will be held during the last lecture (May 5) and the project report will be due May 5, 11.59PM EST.
 
 ### Participation and Attendance
 You are expected to attend and participate in classes and labs in person or via Zoom (see <a href="https://brightspace.nyu.edu/d2l/le/lessons/156638/%20nits/6225595">NYU Brightspace</a> for link). Class attendance will count for 5% of your grade and lab attendance will count for 5% of your grade.
@@ -104,6 +104,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 03/08 | Lab                   |      |  |
 | 03/09 | Exercise 2 DUE        |  HW on Canny Edge Detector       |<a href="https://drive.google.com/file/d/1_DaNrFnDDtILv2VIwRNzA5cNwf4xoMfl/view?usp=sharing">Link</a> |
 | 03/10 | Lecture 7             |       | |
+| 03/11 | Project abstract DUE | | [Submission form](https://docs.google.com/forms/d/e/1FAIpQLScr7l0nuzwDEAmCWWxEdHEAMXVa_nPA9vsX-L1F_dx-KMC7dg/viewform?usp=sf_link) |
 | 03/17 | No class | (spring break) | |
 | 03/22 | Lab                   |      | |
 | 03/24 | Lecture 8             |      |  |
