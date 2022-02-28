@@ -53,7 +53,7 @@ Due on Mar. 9.
 Due on Apr. 6.
 * **Excercise 4** on neural networks.
 Due on May 4.
-* **Final project:** here is a list of [suggested papers](https://docs.google.com/document/d/11vsh1EHvDHOhGsFBpeqwzZFQNBkFk2Qwk-_YDP7XF_g/edit?usp=sharing) for the final project. Final presentations will be held during the last lecture (May 5) and the project report will be due May 5, 11.59PM EST.
+* **Final project:** here is a list of [suggested papers](https://docs.google.com/document/d/11vsh1EHvDHOhGsFBpeqwzZFQNBkFk2Qwk-_YDP7XF_g/edit?usp=sharing) for the final project. Submit project abstract by March 11 [here](https://docs.google.com/forms/d/e/1FAIpQLScr7l0nuzwDEAmCWWxEdHEAMXVa_nPA9vsX-L1F_dx-KMC7dg/viewform?usp=sf_link). Final presentations will be held during the last lecture (May 5) and the project report will be due May 5, 11.59PM EST.
 
 ### Participation and Attendance
 You are expected to attend and participate in classes and labs in person or via Zoom (see <a href="https://brightspace.nyu.edu/d2l/le/lessons/156638/%20nits/6225595">NYU Brightspace</a> for link). Class attendance will count for 5% of your grade and lab attendance will count for 5% of your grade.
