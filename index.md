@@ -49,9 +49,9 @@ grade) + class participation and attendance (5%) + lab participation and attenda
 Due on Feb. 16.
 * **Excercise 2** on Canny edge detector. <a href="https://drive.google.com/file/d/1_DaNrFnDDtILv2VIwRNzA5cNwf4xoMfl/view?usp=sharing">Link</a>
 Due on Mar. 9.
-* **Excercise 3** on mean shift.
+* **Excercise 3** on mean shift. <a href="https://drive.google.com/file/d/1YxXRS3KVX6uNAb18DclYzW0MtLNaRolo/view?usp=sharing">Link</a>
 Due on Apr. 6.
-* **Excercise 4** on neural networks.
+* **Excercise 4** on neural networks. <a href="https://drive.google.com/file/d/13Q1jkblZMqx2wwtGod7DISwRvwqzkneb/view?usp=sharing">Link</a>
 Due on May 4.
 * **Final project:** here is a list of [suggested papers](https://docs.google.com/document/d/11vsh1EHvDHOhGsFBpeqwzZFQNBkFk2Qwk-_YDP7XF_g/edit?usp=sharing) for the final project. Submit project abstract by March 11 [here](https://docs.google.com/forms/d/e/1FAIpQLScr7l0nuzwDEAmCWWxEdHEAMXVa_nPA9vsX-L1F_dx-KMC7dg/viewform?usp=sf_link). Final presentations will be held during the last lecture (May 5) and the project report will be due May 5, 11.59PM EST.
 
@@ -111,7 +111,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 03/29 | Lab                   |      |  |
 | 03/31 | Lecture 9                   |      |  |
 | 04/05 | Lab                   |      |  |
-| 04/06 | Exercise 3 DUE        |                                                                                               | |
+| 04/06 | Exercise 3 DUE        |  HW on Mean Shift (<a href="https://drive.google.com/file/d/1YxXRS3KVX6uNAb18DclYzW0MtLNaRolo/view?usp=sharing">Link</a>)                                                                                             | |
 | 04/07 | Lecture 10                   |      |  |
 | 04/12 | Lab                   |      |  |
 | 04/14 | Lecture 11                   |      | |
@@ -120,7 +120,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 04/26 | Lab                   |      |  |
 | 04/28 | Lecture 13                   |      |  |
 | 05/03 | Lab                   |      |  |
-| 05/04 | Exercise 4 DUE        |                         | |
+| 05/04 | Exercise 4 DUE        |  HW on Neural Networks (<a href="https://drive.google.com/file/d/13Q1jkblZMqx2wwtGod7DISwRvwqzkneb/view?usp=sharing">Link</a>)                       | |
 | 05/05 | Lecture 14                   |     |  |
 
 
