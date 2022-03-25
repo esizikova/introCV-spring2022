@@ -107,7 +107,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 03/11 | Project abstract DUE | | [Submission form](https://docs.google.com/forms/d/e/1FAIpQLScr7l0nuzwDEAmCWWxEdHEAMXVa_nPA9vsX-L1F_dx-KMC7dg/viewform?usp=sf_link) |
 | 03/17 | No class | (spring break) | |
 | 03/22 | Lab                   |      | |
-| 03/24 | Lecture 8             |      |  |
+| 03/24 | Lecture 8             |  Texture and Segmentation    | Slides ([Keynote](https://drive.google.com/file/d/1UucrhFUBexdvwDPk6iYhk0E3Fds3IzLT/view?usp=sharing), [PDF](https://drive.google.com/file/d/1_E7Xps3qfAlXtLFNlcUlCt7h20bySguP/view?usp=sharing)) |
 | 03/29 | Lab                   |      |  |
 | 03/31 | Lecture 9                   |      |  |
 | 04/05 | Lab                   |      |  |
