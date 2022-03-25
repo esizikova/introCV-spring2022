@@ -103,7 +103,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 03/03 | Lecture 6             |  Radiometry     | Slides (<a href="https://docs.google.com/presentation/d/1KejNFJjDYvqg59S73kvB2EtlWSDOAQsn/edit?usp=sharing&ouid=106162158699473790269&rtpof=true&sd=true">PPTX</a>, <a href="https://drive.google.com/file/d/1eLBm1q1Modhb1O_K8YG1YkEQCDeqLWIa/view?usp=sharing">PDF</a>)  |
 | 03/08 | Lab                   |      |  |
 | 03/09 | Exercise 2 DUE        |  HW on Canny Edge Detector       |<a href="https://drive.google.com/file/d/1_DaNrFnDDtILv2VIwRNzA5cNwf4xoMfl/view?usp=sharing">Link</a> |
-| 03/10 | Lecture 7             |       | |
+| 03/10 | Lecture 7             |  Radiometry     | Slides (<a href="https://docs.google.com/presentation/d/1nkxOIm5_ku1uHAa0jUU0_0R8qiN2fenH/edit?usp=sharing&ouid=106162158699473790269&rtpof=true&sd=true">PPTX</a>, <a href="https://drive.google.com/file/d/1Y198uTcg59tX2zSsWArUqSHJk8f7v8dB/view?usp=sharing">PDF</a>) |
 | 03/11 | Project abstract DUE | | [Submission form](https://docs.google.com/forms/d/e/1FAIpQLScr7l0nuzwDEAmCWWxEdHEAMXVa_nPA9vsX-L1F_dx-KMC7dg/viewform?usp=sf_link) |
 | 03/17 | No class | (spring break) | |
 | 03/22 | Lab                   |      | |
