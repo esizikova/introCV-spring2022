@@ -94,19 +94,19 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 02/03 | Lecture 2             | Camera geometry and calibration       | Slides (<a href="https://docs.google.com/presentation/d/1L9ubs3AKnkKLjW9SoRldpcm9lbidmnMP/edit?usp=sharing&ouid=106162158699473790269&rtpof=true&sd=true">PPTX</a>, <a href="https://drive.google.com/file/d/1jj27W9-SsqX_5B-wc24itFSmN3eIjQkT/view?usp=sharing">PDF</a>) |
 | 02/08 | Lab 2                 | Homework 1 review      | Slides (<a href="https://docs.google.com/presentation/d/1F57_lhGbhn0Z4RWI7fTyTH8Leo9g3Rr4ncxsDSs6i-A/edit?usp=sharing">PPTX</a>, <a href="https://drive.google.com/file/d/1UnBVU5oawJ-57SOU7kuCdU2t9ZdnZY-V/view?usp=sharing">PDF</a>) Notebook (<a href="https://drive.google.com/file/d/1oL3icg92Aitj5vDY63c9GL7B-tJ3_C85/view?usp=sharing">Jupyter</a>) |
 | 02/10 | Lecture 3             | Camera geometry and calibration      | Slides (<a href="https://docs.google.com/presentation/d/1k-l-V8Ropreim_kKlZm3a3eBNz32fRKS/edit?usp=sharing&ouid=106162158699473790269&rtpof=true&sd=true">PPTX</a>, <a href="https://drive.google.com/file/d/1q8hpDTOWy5CWs-5ftJCBxkDgHkTOILZu/view?usp=sharing">PDF</a>) |
-| 02/15 | Lab                   |       |  |
+| 02/15 | Lab                   |  HW1 Q&A     |  |
 | 02/16 | Exercise 1 DUE        |  HW on Camera Calibration  | <a href="https://drive.google.com/file/d/1wqrxhtLQTdJRnTmKt5Zf0_i1TNQNPNOI/view?usp=sharing">Link</a> 
 | 02/17 | Lecture 4             | Image Filtering   | Slides ([Keynote](https://drive.google.com/file/d/1xNsOk08gf7QnigxdoDJdH_qq0Cl1sP9R/view?usp=sharing), [PDF](https://drive.google.com/file/d/1qRDndR2ONTlojo8EeqR76vKmUBnZBCCn/view?usp=sharing))|
 | 03/22 | Lab 3                 | Image Filtering | Notebook (<a href="https://colab.research.google.com/drive/1cHiAS4B9RVI01cPIIzylXbZd_g26ICCi?usp=sharing">Jupyter</a>)  |
 | 02/24 | Lecture 5             | Edge and Feature Detection   | Slides ([Keynote](https://drive.google.com/file/d/1J_TF7KADIGMZUwEyY_4WUbHYver6y7OV/view?usp=sharing), [PDF](https://drive.google.com/file/d/1L5wgvrN-O6Rn-8w-kraDe0Du3VdR0sFo/view?usp=sharing)) |
 | 03/01 | Lab 4                 | Non-Max Suppression and RANSAC  | Notebook (<a href="https://colab.research.google.com/drive/1EitNMr5Z6hoPHxfZeh4vnO7-jSFcAhug?usp=sharing">Jupyter</a>) |
 | 03/03 | Lecture 6             |  Radiometry     | Slides (<a href="https://docs.google.com/presentation/d/1KejNFJjDYvqg59S73kvB2EtlWSDOAQsn/edit?usp=sharing&ouid=106162158699473790269&rtpof=true&sd=true">PPTX</a>, <a href="https://drive.google.com/file/d/1eLBm1q1Modhb1O_K8YG1YkEQCDeqLWIa/view?usp=sharing">PDF</a>)  |
-| 03/08 | Lab                   |      |  |
+| 03/08 | Lab                   |  HW2 Q&A    |  |
 | 03/09 | Exercise 2 DUE        |  HW on Canny Edge Detector       |<a href="https://drive.google.com/file/d/1_DaNrFnDDtILv2VIwRNzA5cNwf4xoMfl/view?usp=sharing">Link</a> |
 | 03/10 | Lecture 7             |  Radiometry     | Slides (<a href="https://docs.google.com/presentation/d/1nkxOIm5_ku1uHAa0jUU0_0R8qiN2fenH/edit?usp=sharing&ouid=106162158699473790269&rtpof=true&sd=true">PPTX</a>, <a href="https://drive.google.com/file/d/1Y198uTcg59tX2zSsWArUqSHJk8f7v8dB/view?usp=sharing">PDF</a>) |
 | 03/11 | Project abstract DUE | | [Submission form](https://docs.google.com/forms/d/e/1FAIpQLScr7l0nuzwDEAmCWWxEdHEAMXVa_nPA9vsX-L1F_dx-KMC7dg/viewform?usp=sf_link) |
 | 03/17 | No class | (spring break) | |
-| 03/22 | Lab                   |      | |
+| 03/22 | Lab 5                 |  Image Segmentation with K-Means Clustering | Notebook (<a href="https://colab.research.google.com/drive/1--nLHrc00doX_fRF0QffO6GAtD0o125y?usp=sharing">Jupyter</a>) |
 | 03/24 | Lecture 8             |  Texture and Segmentation    | Slides ([Keynote](https://drive.google.com/file/d/1UucrhFUBexdvwDPk6iYhk0E3Fds3IzLT/view?usp=sharing), [PDF](https://drive.google.com/file/d/1_E7Xps3qfAlXtLFNlcUlCt7h20bySguP/view?usp=sharing)) |
 | 03/29 | Lab                   |      |  |
 | 03/31 | Lecture 9                   |      |  |
