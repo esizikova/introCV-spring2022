@@ -108,9 +108,9 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 03/17 | No class | (spring break) | |
 | 03/22 | Lab 5                 |  Image Segmentation with K-Means Clustering | Notebook (<a href="https://colab.research.google.com/drive/1--nLHrc00doX_fRF0QffO6GAtD0o125y?usp=sharing">Jupyter</a>) |
 | 03/24 | Lecture 8             |  Texture and Segmentation    | Slides ([Keynote](https://drive.google.com/file/d/1UucrhFUBexdvwDPk6iYhk0E3Fds3IzLT/view?usp=sharing), [PDF](https://drive.google.com/file/d/1_E7Xps3qfAlXtLFNlcUlCt7h20bySguP/view?usp=sharing)) |
-| 03/29 | Lab                   |      |  |
-| 03/31 | Lecture 9                   |      |  |
-| 04/05 | Lab                   |      |  |
+| 03/29 | Lab 6                  | Image Segmentation using Texture | Notebook (<a href="https://colab.research.google.com/drive/12pMC29XIFE4uJ3GWG2S9wxPMlZ-wrCrs?usp=sharing"> Jupyter </a>) |
+| 03/31 | Lecture 9             | Radiometry  | Slides (<a href="https://docs.google.com/presentation/d/1nkxOIm5_ku1uHAa0jUU0_0R8qiN2fenH/edit?usp=sharing&ouid=109773512223577749470&rtpof=true&sd=true">PPTX</a>, <a href="https://drive.google.com/file/d/1Y198uTcg59tX2zSsWArUqSHJk8f7v8dB/view?usp=sharing">PDF</a>) |
+| 04/05 | Lab                   | Radiometry  | Slides (<a href="https://docs.google.com/presentation/d/1nkxOIm5_ku1uHAa0jUU0_0R8qiN2fenH/edit?usp=sharing&ouid=109773512223577749470&rtpof=true&sd=true">PPTX</a>, <a href="https://drive.google.com/file/d/1Y198uTcg59tX2zSsWArUqSHJk8f7v8dB/view?usp=sharing">PDF</a>) |
 | 04/06 | Exercise 3 DUE        |  HW on Mean Shift  | <a href="https://drive.google.com/file/d/1YxXRS3KVX6uNAb18DclYzW0MtLNaRolo/view?usp=sharing">Link</a> |
 | 04/07 | Lecture 10                   |      |  |
 | 04/12 | Lab                   |      |  |
