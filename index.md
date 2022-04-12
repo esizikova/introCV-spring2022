@@ -109,16 +109,16 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 03/22 | Lab 5                 |  Image Segmentation with K-Means Clustering | Notebook (<a href="https://colab.research.google.com/drive/1--nLHrc00doX_fRF0QffO6GAtD0o125y?usp=sharing">Jupyter</a>) |
 | 03/24 | Lecture 8             |  Texture and Segmentation    | Slides ([Keynote](https://drive.google.com/file/d/1UucrhFUBexdvwDPk6iYhk0E3Fds3IzLT/view?usp=sharing), [PDF](https://drive.google.com/file/d/1_E7Xps3qfAlXtLFNlcUlCt7h20bySguP/view?usp=sharing)) |
 | 03/29 | Lab 6                  | Image Segmentation using Texture | Notebook (<a href="https://colab.research.google.com/drive/12pMC29XIFE4uJ3GWG2S9wxPMlZ-wrCrs?usp=sharing"> Jupyter </a>) |
-| 03/31 | Lecture 9             | Radiometry  | Slides (<a href="https://docs.google.com/presentation/d/1nkxOIm5_ku1uHAa0jUU0_0R8qiN2fenH/edit?usp=sharing&ouid=109773512223577749470&rtpof=true&sd=true">PPTX</a>, <a href="https://drive.google.com/file/d/1Y198uTcg59tX2zSsWArUqSHJk8f7v8dB/view?usp=sharing">PDF</a>) |
-| 04/05 | Lab                   | Radiometry  | Slides (<a href="https://docs.google.com/presentation/d/1nkxOIm5_ku1uHAa0jUU0_0R8qiN2fenH/edit?usp=sharing&ouid=109773512223577749470&rtpof=true&sd=true">PPTX</a>, <a href="https://drive.google.com/file/d/1Y198uTcg59tX2zSsWArUqSHJk8f7v8dB/view?usp=sharing">PDF</a>) |
+| 03/31 | Lecture 9             | Stereopsis and two-view geometry  | Slides (<a href="https://docs.google.com/presentation/d/1XD6URD46o1yH5ePqfrdQdmPOKezuEOzN4-me5lGMnEo/edit?usp=sharing">PPTX</a>, <a href="https://drive.google.com/file/d/1r2-DcjRFG-_Z5wqr4pRvv2JX8yXnOlZ9/view?usp=sharing">PDF</a>) |
+| 04/05 | Lecture 10            | Epipolar Geometry  | Slides (<a href="https://docs.google.com/presentation/d/13wfXUEp8tYuRFYVUvDJssWlMTg4uySsJRYjveoF5170/edit?usp=sharing">PPTX</a>, <a href="https://drive.google.com/file/d/1KH-2Q2pPkOdRdvw-23EsfoCnC03djXGo/view?usp=sharing">PDF</a>) |
 | 04/06 | Exercise 3 DUE        |  HW on Mean Shift  | <a href="https://drive.google.com/file/d/1YxXRS3KVX6uNAb18DclYzW0MtLNaRolo/view?usp=sharing">Link</a> |
-| 04/07 | Lecture 10                   |      |  |
-| 04/12 | Lab                   |      |  |
-| 04/14 | Lecture 11                   |      | |
+| 04/07 | Lecture 11            | Reconstruction & Structure From Motion | Slides (<a href="https://docs.google.com/presentation/d/1XS-A3q0sl13vtduQu95v1_GxOHCaNX3TnahKXLLK0aI/edit?usp=sharing">PPTX</a>, <a href="https://drive.google.com/file/d/1NFN81rNUF8nDQAbac0PuUDJTaMXE3iLY/view?usp=sharing">PDF</a>) |
+| 04/12 | Lecture 12 & Lab 7    |      |  |
+| 04/14 | Lecture 13            |      | |
 | 04/19 | Lab                   |      |   |
-| 04/21 | Lecture 12                   |      | |
+| 04/21 | Lecture 14            |      | |
 | 04/26 | Lab                   |      |  |
-| 04/28 | Lecture 13                   |      |  |
+| 04/28 | Lecture 15                   |      |  |
 | 05/03 | Lab                   |      |  |
 | 05/04 | Exercise 4 DUE        |  HW on Neural Networks                        | <a href="https://drive.google.com/file/d/13Q1jkblZMqx2wwtGod7DISwRvwqzkneb/view?usp=sharing">Link</a> |
 | 05/05 | Lecture 14                   |     |  |
