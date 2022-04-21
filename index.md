@@ -114,7 +114,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 04/06 | Exercise 3 DUE        |  HW on Mean Shift  | <a href="https://drive.google.com/file/d/1YxXRS3KVX6uNAb18DclYzW0MtLNaRolo/view?usp=sharing">Link</a> |
 | 04/07 | Lecture 11            | Reconstruction & Structure From Motion | Slides (<a href="https://docs.google.com/presentation/d/1XS-A3q0sl13vtduQu95v1_GxOHCaNX3TnahKXLLK0aI/edit?usp=sharing">PPTX</a>, <a href="https://drive.google.com/file/d/1NFN81rNUF8nDQAbac0PuUDJTaMXE3iLY/view?usp=sharing">PDF</a>) |
 | 04/12 | Lecture 12 & Lab 7    | 3D Processing, cont.     | Slides (<a href="https://docs.google.com/presentation/d/1MKrqYH01BcUpc0bVh63OONpA9ExuGNIY/edit?usp=sharing&ouid=106162158699473790269&rtpof=true&sd=true">PPTX</a>, <a href="https://drive.google.com/file/d/1rprVWwMBbOLQjMMHIb6S-KY00UWS2oZP/view?usp=sharing">PDF</a>) |
-| 04/14 | Lecture 13            |      | |
+| 04/14 | Lecture 13            | CNNs Intro     | Slides (<a href="https://drive.google.com/file/d/1uQ8b6wx891eV8Q0Le9wxCy0n_vrqULHu/view?usp=sharing">Keynote</a>, <a href="https://drive.google.com/file/d/144NRhEJ3gpVnhoVBzqBhn_lCsnVStHKf/view?usp=sharing">PDF</a>) |
 | 04/19 | Lab                   |      |   |
 | 04/21 | Lecture 14            |      | |
 | 04/26 | Lab                   |      |  |
