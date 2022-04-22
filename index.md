@@ -116,12 +116,12 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 04/12 | Lecture 12 & Lab 7    | 3D Processing, cont.     | Slides (<a href="https://docs.google.com/presentation/d/1MKrqYH01BcUpc0bVh63OONpA9ExuGNIY/edit?usp=sharing&ouid=106162158699473790269&rtpof=true&sd=true">PPTX</a>, <a href="https://drive.google.com/file/d/1rprVWwMBbOLQjMMHIb6S-KY00UWS2oZP/view?usp=sharing">PDF</a>) |
 | 04/14 | Lecture 13            | CNNs Intro     | Slides (<a href="https://drive.google.com/file/d/1uQ8b6wx891eV8Q0Le9wxCy0n_vrqULHu/view?usp=sharing">Keynote</a>, <a href="https://drive.google.com/file/d/144NRhEJ3gpVnhoVBzqBhn_lCsnVStHKf/view?usp=sharing">PDF</a>) |
 | 04/19 | Lab                   |      |   |
-| 04/21 | Lecture 14            |      | |
+| 04/21 | Lecture 14            | Transformers and Object Detection     | Slides (<a href="https://drive.google.com/file/d/1LX168dHs2Gn1F7SVR-IVViNvhl8ec7Ay/view?usp=sharing">Keynote</a>, <a href="https://drive.google.com/file/d/1tcD-rf-YUfDijBUYG4QuyOyaxJeYz1g8/view?usp=sharing">PDF</a>) |
 | 04/26 | Lab                   |      |  |
 | 04/28 | Lecture 15                   |      |  |
 | 05/03 | Lab                   |      |  |
 | 05/04 | Exercise 4 DUE        |  HW on Neural Networks                        | <a href="https://drive.google.com/file/d/13Q1jkblZMqx2wwtGod7DISwRvwqzkneb/view?usp=sharing">Link</a> |
-| 05/05 | Lecture 14                   |     |  |
+| 05/05 | Lecture 14                   | Final Presentations    |  |
 
 
 
